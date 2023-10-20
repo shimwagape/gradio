@@ -7,7 +7,7 @@ To use this app and make predictions, follow the steps below:
 ## 1.Clone the Repository
 First, clone this repository to your local machine. You can do this by running the following command in your terminal or command prompt:
 
-git clone <repository-url>
+git clone <https://github.com/shimwagape/gradio.git>
 ## 2. Navigate to the Project Directory
 Change your working directory to the project folder:
 
