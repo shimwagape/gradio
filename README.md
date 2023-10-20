@@ -51,3 +51,7 @@ Model Information
 The app uses a machine learning model that has been trained to predict customer churn. The model file is located in the models directory and is loaded into the app during runtime.
 
 For any questions or issues, feel free to reach out to the project maintainers. Thank you for using the Customer Churn Prediction App!
+## Author
+SHIMWA Agape Valentin
+### email
+savalentin75@gmail.com
